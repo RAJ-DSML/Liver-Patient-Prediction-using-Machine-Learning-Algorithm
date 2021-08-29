@@ -1,7 +1,7 @@
 # Liver Patient Prediction using Machine Learning Algorithm
 
 ## Description
-
+According to the No Free Lunch Theorem (NFLT) of Machine Learning, there is no standard algorithm, that works best in all the datasets. So, here I try multiple Machine Learning Algorithms and compare the accuracy score. And I got a maximum of 72.57% of accuracy with the Logistic Regression. And with this LR algorithm, I try to predict whether a person having Liver Deseas or not.
 
 ## Data Description
 This data set contains 416 liver patient records and 167 non liver patient records. The data set was collected from north east of Andhra Pradesh, India. Selector is a class label used to divide into groups (liver patient or not). This data set contains 441 male patient records and 142 female patient records.
